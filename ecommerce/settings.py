@@ -158,5 +158,6 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 CSRF_TRUSTED_ORIGINS = [
     # 'https://nexusmotos-production.up.railway.app'
-    'https://web-production-dbe1d.up.railway.app'
+    # 'https://web-production-dbe1d.up.railway.app'
+    'https://web-production-ec26b.up.railway.app'
 ]
